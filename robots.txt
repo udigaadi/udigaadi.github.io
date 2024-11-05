@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udigaadi.github.io/JBf/sitemap_index.txt
+Sitemap: https://udigaadi.github.io/aRg/sitemap_index.txt
+Sitemap: https://udigaadi.github.io/jVk/sitemap_index.txt
+Sitemap: https://udigaadi.github.io/xEY/sitemap_index.txt
